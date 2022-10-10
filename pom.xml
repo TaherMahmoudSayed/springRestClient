@@ -31,10 +31,13 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
+<<<<<<< HEAD
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
+=======
+>>>>>>> 1e603eb (added Api Models)
 			<artifactId>spring-boot-starter-webflux</artifactId>
 		</dependency>
 
